@@ -4,7 +4,7 @@ The URL of competition:https://www.datafountain.cn/competitions/982/
 
 Also you can get the data from the URL
 
-We can't not ensure you can successfully run all the code in only environment
+We can't ensure you can successfully run all the code in only environment
 
 ### Data prepared:
 
