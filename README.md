@@ -33,7 +33,7 @@ conda install protobuf
 
 We use Tesla V100 32G with cuda version 9.0 to run this part 
 
-Anyway,if you have any Question,Please contact me
+Anyway,if you have any question,Please contact me
 
 **Our model structure is shown below:**
 
